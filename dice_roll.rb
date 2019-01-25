@@ -1,3 +1,3 @@
 def roll
-  return (1,2,3,4,5,6).shuffle.First
+  return [1,2,3,4,5,6].shuffle.First
 end
